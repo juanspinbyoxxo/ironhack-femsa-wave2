@@ -1,3 +1,4 @@
+package lab2;
 // class violates the Single Responsibility Principle, Open close Principle, Dependency inversion principle
 // we need to refactor it,
 // we can split the class into 4 classes, each class will have a single responsibility
